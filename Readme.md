@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Иван Капусткин](https://up.htmlacademy.ru/htmlcss/26/user/1011917).
-* Наставник: [Николай Солодухин](https://htmlacademy.ru/profile/nikolaysolodukhin).
+* Наставник: [Николай Солодухин](https://htmlacademy.ru/htmlcss/26/user/138404).
 
 ---
 
